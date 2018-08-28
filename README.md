@@ -1,0 +1,2 @@
+# BetaSpindles
+BetaSpindlesCNN Working File 
